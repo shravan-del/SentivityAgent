@@ -1,0 +1,22 @@
+pandas
+numpy
+hdbscan
+schedule
+requests
+nltk
+praw # For reddit data, ensure you have a praw.ini or similar config if needed
+yfinance
+xgboost
+scikit-learn
+matplotlib
+langchain-core # For langchain.embeddings.OpenAIEmbeddings (was langchain, now split)
+langchain-community # For langchain_community.vectorstores.FAISS
+transformers
+torch
+seaborn
+vaderSentiment
+lightgbm
+spacy
+openai
+joblib
+tabulate
